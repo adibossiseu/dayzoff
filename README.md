@@ -1,1 +1,1 @@
-# dayz-off
+# dayzoff
